@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "761315855239",
+    "project_id": "school-meals-fdafc",
+    "storage_bucket": "school-meals-fdafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761315855239:android:8de5b25a9d29013c1fa122",
+        "android_client_info": {
+          "package_name": "com.example.school_meals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761315855239-laoqqm93hi1rib6pm7tnuuk187225gi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKtecoNkLBT78BoncuhaYOHceG237gyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761315855239-laoqqm93hi1rib6pm7tnuuk187225gi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761315855239:android:d5b7ce92568142481fa122",
+        "android_client_info": {
+          "package_name": "com.example.school_meals_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761315855239-laoqqm93hi1rib6pm7tnuuk187225gi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKtecoNkLBT78BoncuhaYOHceG237gyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761315855239-laoqqm93hi1rib6pm7tnuuk187225gi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
